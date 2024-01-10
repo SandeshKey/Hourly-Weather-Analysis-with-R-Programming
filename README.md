@@ -97,3 +97,7 @@ Once all the necessary packages are installed and data are pre processed, it is 
 <br>
 <br>
 <br>
+
+### Project Documentation
+
+For PDF File, and Keynote/PowerPoint Presentation, Visit **[Sandesh Subedi](https://sandeshsubedi7.com.np/)**
